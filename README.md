@@ -75,11 +75,11 @@ The application workspace layout structures responses into three functional bloc
 ### Live Interface Previews
 | **Main Dashboard & Reporting Interface** | **Grievance Generation Engine** |
 |---|---|
-| ![Civic Navigator AI Dashboard](D%201.png) | ![Grievance Letter Output](D%202.png) |
+| ![Civic Navigator AI Dashboard](D 1.png) | ![Grievance Letter Output](D 2.png) |
 
 | **Quick Actions & Summaries** |
 |---|
-| ![Key Takeaways Summary Panel](D%203.png) |
+| ![Key Takeaways Summary Panel](D 3.png) |
 
 ---
 
